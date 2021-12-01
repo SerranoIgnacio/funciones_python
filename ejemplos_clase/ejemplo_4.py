@@ -11,7 +11,7 @@
 def ordenar_menor_mayor(lista_productos):
     precios_ordenados = sorted(lista_productos)
     return precios_ordenados
-
+    
 
 # --------------------------------
 # Aquí dentro definir la función "ordenar_mayor_menor"
